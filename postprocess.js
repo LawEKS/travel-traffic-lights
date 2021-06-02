@@ -29,6 +29,7 @@ try {
   })
   const newFilename = "travel-traffic-lights.json"
   await writeJSON(newFilename, data)
+  await removeFile(filename)
 } catch (error) {
   console.log(error)
   await writeTXT("errors.txt", error)
