@@ -1,0 +1,1 @@
+TypeError: arg.charCodeAt is not a function
