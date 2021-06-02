@@ -1,1 +1,1 @@
-# travel-trafic-lights
+# travel-traffic-lights
