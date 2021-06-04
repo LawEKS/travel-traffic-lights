@@ -3,7 +3,7 @@ import { writeJSON, writeTXT } from "https://deno.land/x/flat/mod.ts"
 
 try {
   const filename = Deno.args[0]
-  const html = Deno.readFileSync(filename)
+  const html = await Deno.readTextFile(filename)
   const data = parseDoc(html)
   const newFilename = "travel-traffic-lights.json"
   await writeJSON(newFilename, data)
