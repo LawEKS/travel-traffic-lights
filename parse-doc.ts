@@ -17,11 +17,11 @@ export const parseDoc = (html: string) => {
       ?.textContent.split(" ")[0]
       .toLowerCase();
 
-    const countries = [...table.querySelectorAll("tbody th:first-child")].map(
-      (cell) => cell.textContent.trim(),
+    const countries = [...table.querySelectorAll("tbody th")].map((cell) =>
+      cell.textContent.trim()
     );
-    const changes = [...table.querySelectorAll("tbody th:last-child")].map(
-      (cell) => cell.textContent.trim(),
+    const changes = [...table.querySelectorAll("tbody td")].map((cell) =>
+      cell.textContent.trim()
     );
 
     return {
