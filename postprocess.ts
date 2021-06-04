@@ -1,12 +1,11 @@
-import { parseDoc } from "./parse-doc.js"
-import { writeJSON, writeTXT } from "https://deno.land/x/flat/mod.ts"
+import { parseDoc } from "./parse-doc.ts"
+import { writeJSON, writeTXT, removeFile } from "https://deno.land/x/flat/mod.ts"
 
 try {
   const filename = Deno.args[0]
   const html = await Deno.readTextFile(filename)
   const data = parseDoc(html)
-  const newFilename = "travel-traffic-lights.json"
-  await writeJSON(newFilename, data)
+  await writeJSON("travel-traffic-lights.json", data)
   await removeFile(filename)
 } catch (error) {
   console.log(error)
