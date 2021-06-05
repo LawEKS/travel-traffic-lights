@@ -21,4 +21,4 @@ jobs:
         with:
           http_url: https://www.gov.uk/guidance/red-amber-and-green-list-rules-for-entering-england
           downloaded_filename: index.html
-          postprocess: ./postprocess.js
+          postprocess: ./postprocess.ts
