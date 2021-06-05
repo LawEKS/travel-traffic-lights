@@ -9,7 +9,7 @@ interface TableData {
   changes: string | null;
 }
 
-export const parseDoc = (html: string): TableData[] | null => {
+export const extractFlatCountyData = (html: string): TableData[] | null => {
   const doc = new DOMParser().parseFromString(html, "text/html");
 
   if (!doc) return null;

@@ -1,4 +1,4 @@
-import { parseDoc } from "./parse-doc.ts";
+import { extractFlatCountyData } from "./extract-flat-country-data.ts";
 import {
   writeJSON,
   writeTXT,
@@ -8,7 +8,7 @@ import {
 try {
   const filename = Deno.args[0];
   const html = await Deno.readTextFile(filename);
-  const data = parseDoc(html);
+  const data = extractFlatCountyData(html);
   await writeJSON("travel-traffic-lights.json", data);
   await removeFile(filename);
   await removeFile("errors.txt").catch(() => {});
