@@ -3,33 +3,40 @@ import {
   Element,
 } from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
 
-export const parseDoc = (html: string) => {
+interface TableData {
+  status?: string;
+  country?: string;
+  changes: string | null;
+}
+
+export const parseDoc = (html: string): TableData[] | null => {
   const doc = new DOMParser().parseFromString(html, "text/html");
 
   if (!doc) return null;
 
   const tables = doc.querySelectorAll("table") as unknown as Element[];
-  const data = [...tables].map((table) => {
-    if (!table) return {};
+  const data = [...tables]
+    .map((table) => {
+      if (!table) return null;
 
-    const status = table
-      .querySelector("thead th:first-child")
-      ?.textContent.split(" ")[0]
-      .toLowerCase();
+      const status = table
+        .querySelector("thead th:first-child")
+        ?.textContent.split(" ")[0]
+        .toLowerCase();
 
-    const countries = [...table.querySelectorAll("tbody th")].map((cell) =>
-      cell.textContent.trim()
-    );
-    const changes = [...table.querySelectorAll("tbody td")].map((cell) =>
-      cell.textContent.trim()
-    );
+      const tableBodyChildren = table.querySelector("tbody")?.children;
+      let countryChanges;
+      if (tableBodyChildren) {
+        countryChanges = [...tableBodyChildren].map((el) => {
+          const country = el.querySelector("th")?.textContent.trim();
+          const changes = el.querySelector("td")?.textContent.trim() || null;
+          return { status, country, changes };
+        });
+      }
 
-    return {
-      status,
-      countries,
-      changes,
-    };
-  });
+      return countryChanges ?? null;
+    })
+    .filter((item) => item !== null);
 
-  return data;
+  return (data as unknown as TableData[]).flat();
 };
