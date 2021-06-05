@@ -9,7 +9,10 @@ try {
   const filename = Deno.args[0];
   const html = await Deno.readTextFile(filename);
   const data = extractFlatCountyData(html);
-  await writeJSON("travel-traffic-lights.json", data);
+  await Deno.writeTextFile(
+    "travel-traffic-lights.json",
+    JSON.stringify(data, null, 2)
+  );
   await removeFile(filename);
   await removeFile("errors.txt").catch(() => {});
 } catch (error) {
