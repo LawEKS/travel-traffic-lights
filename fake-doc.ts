@@ -1,4 +1,4 @@
-export const docWithTables = /* html */ `
+const html = /* html */ `
   <!DOCTYPE html>
     <body>
       <table>
@@ -58,3 +58,5 @@ export const docWithTables = /* html */ `
     </body>
   </html>
 `;
+
+export default html;
