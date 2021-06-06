@@ -1,1 +1,1182 @@
-[{"status":"red","country":"Afghanistan","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Angola","changes":null},{"status":"red","country":"Argentina","changes":null},{"status":"red","country":"Bahrain","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Bangladesh","changes":null},{"status":"red","country":"Bolivia","changes":null},{"status":"red","country":"Botswana","changes":null},{"status":"red","country":"Brazil","changes":null},{"status":"red","country":"Burundi","changes":null},{"status":"red","country":"Cape Verde","changes":null},{"status":"red","country":"Chile","changes":null},{"status":"red","country":"Colombia","changes":null},{"status":"red","country":"Congo (Democratic Republic)","changes":null},{"status":"red","country":"Costa Rica","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Ecuador","changes":null},{"status":"red","country":"Egypt","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Eswatini","changes":null},{"status":"red","country":"Ethiopia","changes":null},{"status":"red","country":"French Guiana","changes":null},{"status":"red","country":"Guyana","changes":null},{"status":"red","country":"India","changes":null},{"status":"red","country":"Kenya","changes":null},{"status":"red","country":"Lesotho","changes":null},{"status":"red","country":"Malawi","changes":null},{"status":"red","country":"Maldives","changes":null},{"status":"red","country":"Mozambique","changes":null},{"status":"red","country":"Namibia","changes":null},{"status":"red","country":"Nepal","changes":null},{"status":"red","country":"Oman","changes":null},{"status":"red","country":"Pakistan","changes":null},{"status":"red","country":"Panama","changes":null},{"status":"red","country":"Paraguay","changes":null},{"status":"red","country":"Peru","changes":null},{"status":"red","country":"Philippines","changes":null},{"status":"red","country":"Qatar","changes":null},{"status":"red","country":"Rwanda","changes":null},{"status":"red","country":"Seychelles","changes":null},{"status":"red","country":"Somalia","changes":null},{"status":"red","country":"South Africa","changes":null},{"status":"red","country":"Sri Lanka","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Sudan","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Suriname","changes":null},{"status":"red","country":"Tanzania","changes":null},{"status":"red","country":"Trinidad and Tobago","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"red","country":"Turkey","changes":null},{"status":"red","country":"United Arab Emirates (UAE)","changes":null},{"status":"red","country":"Uruguay","changes":null},{"status":"red","country":"Venezuela","changes":null},{"status":"red","country":"Zambia","changes":null},{"status":"red","country":"Zimbabwe","changes":null},{"status":"amber","country":"Afghanistan","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"Akrotiri and Dhekelia","changes":null},{"status":"amber","country":"Albania","changes":null},{"status":"amber","country":"Algeria","changes":null},{"status":"amber","country":"Andorra","changes":null},{"status":"amber","country":"Anguilla","changes":null},{"status":"amber","country":"Antigua and Barbuda","changes":null},{"status":"amber","country":"Armenia","changes":null},{"status":"amber","country":"Aruba","changes":null},{"status":"amber","country":"Austria","changes":null},{"status":"amber","country":"Azerbaijan","changes":null},{"status":"amber","country":"The Bahamas","changes":null},{"status":"amber","country":"Bahrain","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"Barbados","changes":null},{"status":"amber","country":"Belarus","changes":null},{"status":"amber","country":"Belgium","changes":null},{"status":"amber","country":"Belize","changes":null},{"status":"amber","country":"Benin","changes":null},{"status":"amber","country":"Bermuda","changes":null},{"status":"amber","country":"Bhutan","changes":null},{"status":"amber","country":"Bonaire, Sint Eustatius and   Saba","changes":null},{"status":"amber","country":"Bosnia and Herzegovina","changes":null},{"status":"amber","country":"British Antarctic   Territory","changes":null},{"status":"amber","country":"British Indian Ocean   Territory","changes":null},{"status":"amber","country":"British Virgin Islands","changes":null},{"status":"amber","country":"Bulgaria","changes":null},{"status":"amber","country":"Burkina Faso","changes":null},{"status":"amber","country":"Cambodia","changes":null},{"status":"amber","country":"Cameroon","changes":null},{"status":"amber","country":"Canada","changes":null},{"status":"amber","country":"Cayman Islands","changes":null},{"status":"amber","country":"Central African Republic","changes":null},{"status":"amber","country":"Chad","changes":null},{"status":"amber","country":"China","changes":null},{"status":"amber","country":"Comoros","changes":null},{"status":"amber","country":"Congo","changes":null},{"status":"amber","country":"Cook Islands, Tokelau and Niue","changes":null},{"status":"amber","country":"Costa Rica","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"Côte d’Ivoire","changes":null},{"status":"amber","country":"Croatia","changes":null},{"status":"amber","country":"Cuba","changes":null},{"status":"amber","country":"Curaçao","changes":null},{"status":"amber","country":"Cyprus","changes":null},{"status":"amber","country":"Czech Republic (Czechia)","changes":null},{"status":"amber","country":"Denmark","changes":null},{"status":"amber","country":"Djibouti","changes":null},{"status":"amber","country":"Dominica","changes":null},{"status":"amber","country":"Dominican Republic","changes":null},{"status":"amber","country":"Egypt","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"El Salvador","changes":null},{"status":"amber","country":"Equatorial Guinea","changes":null},{"status":"amber","country":"Eritrea","changes":null},{"status":"amber","country":"Estonia","changes":null},{"status":"amber","country":"Fiji","changes":null},{"status":"amber","country":"Finland","changes":null},{"status":"amber","country":"France","changes":null},{"status":"amber","country":"French Polynesia","changes":null},{"status":"amber","country":"Gabon","changes":null},{"status":"amber","country":"The Gambia","changes":null},{"status":"amber","country":"Georgia","changes":null},{"status":"amber","country":"Germany","changes":null},{"status":"amber","country":"Ghana","changes":null},{"status":"amber","country":"Greece (including islands)","changes":null},{"status":"amber","country":"Greenland","changes":null},{"status":"amber","country":"Grenada","changes":null},{"status":"amber","country":"Guadeloupe","changes":null},{"status":"amber","country":"Guatemala","changes":null},{"status":"amber","country":"Guinea","changes":null},{"status":"amber","country":"Guinea-Bissau","changes":null},{"status":"amber","country":"Haiti","changes":null},{"status":"amber","country":"Honduras","changes":null},{"status":"amber","country":"Hong Kong","changes":null},{"status":"amber","country":"Hungary","changes":null},{"status":"amber","country":"Indonesia","changes":null},{"status":"amber","country":"Iran","changes":null},{"status":"amber","country":"Iraq","changes":null},{"status":"amber","country":"Italy","changes":null},{"status":"amber","country":"Jamaica","changes":null},{"status":"amber","country":"Japan","changes":null},{"status":"amber","country":"Jordan","changes":null},{"status":"amber","country":"Kazakhstan","changes":null},{"status":"amber","country":"Kiribati","changes":null},{"status":"amber","country":"Kosovo","changes":null},{"status":"amber","country":"Kuwait","changes":null},{"status":"amber","country":"Kyrgyzstan","changes":null},{"status":"amber","country":"Laos","changes":null},{"status":"amber","country":"Latvia","changes":null},{"status":"amber","country":"Lebanon","changes":null},{"status":"amber","country":"Liberia","changes":null},{"status":"amber","country":"Libya","changes":null},{"status":"amber","country":"Liechtenstein","changes":null},{"status":"amber","country":"Lithuania","changes":null},{"status":"amber","country":"Luxembourg","changes":null},{"status":"amber","country":"Macao","changes":null},{"status":"amber","country":"Madagascar","changes":null},{"status":"amber","country":"Malaysia","changes":null},{"status":"amber","country":"Mali","changes":null},{"status":"amber","country":"Malta","changes":null},{"status":"amber","country":"Marshall Islands","changes":null},{"status":"amber","country":"Martinique","changes":null},{"status":"amber","country":"Mauritania","changes":null},{"status":"amber","country":"Mauritius","changes":null},{"status":"amber","country":"Mayotte","changes":null},{"status":"amber","country":"Mexico","changes":null},{"status":"amber","country":"Micronesia","changes":null},{"status":"amber","country":"Moldova","changes":null},{"status":"amber","country":"Monaco","changes":null},{"status":"amber","country":"Mongolia","changes":null},{"status":"amber","country":"Montenegro","changes":null},{"status":"amber","country":"Montserrat","changes":null},{"status":"amber","country":"Morocco","changes":null},{"status":"amber","country":"Myanmar (Burma)","changes":null},{"status":"amber","country":"Nauru","changes":null},{"status":"amber","country":"Netherlands","changes":null},{"status":"amber","country":"New Caledonia","changes":null},{"status":"amber","country":"Nicaragua","changes":null},{"status":"amber","country":"Niger","changes":null},{"status":"amber","country":"Nigeria","changes":null},{"status":"amber","country":"North Korea","changes":null},{"status":"amber","country":"North Macedonia","changes":null},{"status":"amber","country":"Norway","changes":null},{"status":"amber","country":"The Occupied Palestinian Territories","changes":null},{"status":"amber","country":"Palau","changes":null},{"status":"amber","country":"Papua New Guinea","changes":null},{"status":"amber","country":"Pitcairn, Henderson, Ducie and Oeno Islands","changes":null},{"status":"amber","country":"Poland","changes":null},{"status":"amber","country":"Portugal (including the Azores and Madeira)","changes":"Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."},{"status":"amber","country":"Réunion","changes":null},{"status":"amber","country":"Romania","changes":null},{"status":"amber","country":"Russia","changes":null},{"status":"amber","country":"Samoa","changes":null},{"status":"amber","country":"San Marino","changes":null},{"status":"amber","country":"Sao Tome and Principe","changes":null},{"status":"amber","country":"Saudi Arabia","changes":null},{"status":"amber","country":"Senegal","changes":null},{"status":"amber","country":"Serbia","changes":null},{"status":"amber","country":"Sierra Leone","changes":null},{"status":"amber","country":"Slovakia","changes":null},{"status":"amber","country":"Slovenia","changes":null},{"status":"amber","country":"Solomon Islands","changes":null},{"status":"amber","country":"South Korea","changes":null},{"status":"amber","country":"South Sudan","changes":null},{"status":"amber","country":"Spain (including the Balearics and Canary Islands)","changes":null},{"status":"amber","country":"Sri Lanka","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"St Kitts and Nevis","changes":null},{"status":"amber","country":"St Lucia","changes":null},{"status":"amber","country":"St Maarten","changes":null},{"status":"amber","country":"St Martin and St Barthélemy","changes":null},{"status":"amber","country":"St Pierre and Miquelon","changes":null},{"status":"amber","country":"St Vincent and the   Grenadines","changes":null},{"status":"amber","country":"Sudan","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"Sweden","changes":null},{"status":"amber","country":"Switzerland","changes":null},{"status":"amber","country":"Syria","changes":null},{"status":"amber","country":"Taiwan","changes":null},{"status":"amber","country":"Tajikistan","changes":null},{"status":"amber","country":"Thailand","changes":null},{"status":"amber","country":"Timor-Leste","changes":null},{"status":"amber","country":"Togo","changes":null},{"status":"amber","country":"Tonga","changes":null},{"status":"amber","country":"Trinidad and Tobago","changes":"Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."},{"status":"amber","country":"Tunisia","changes":null},{"status":"amber","country":"Turkmenistan","changes":null},{"status":"amber","country":"Turks and Caicos   Islands","changes":null},{"status":"amber","country":"Tuvalu","changes":null},{"status":"amber","country":"Uganda","changes":null},{"status":"amber","country":"Ukraine","changes":null},{"status":"amber","country":"United States (USA)","changes":null},{"status":"amber","country":"Uzbekistan","changes":null},{"status":"amber","country":"Vanuatu","changes":null},{"status":"amber","country":"Vietnam","changes":null},{"status":"amber","country":"Wallis and Futuna","changes":null},{"status":"amber","country":"Western Sahara","changes":null},{"status":"amber","country":"Yemen","changes":null},{"status":"green","country":"Australia","changes":null},{"status":"green","country":"Brunei","changes":null},{"status":"green","country":"Falkland Islands","changes":null},{"status":"green","country":"Faroe Islands","changes":null},{"status":"green","country":"Gibraltar","changes":null},{"status":"green","country":"Iceland","changes":null},{"status":"green","country":"Israel and Jerusalem","changes":null},{"status":"green","country":"New Zealand","changes":null},{"status":"green","country":"Portugal (including the Azores and Madeira)","changes":"Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."},{"status":"green","country":"Singapore","changes":null},{"status":"green","country":"South Georgia and South Sandwich Islands","changes":null},{"status":"green","country":"St Helena, Ascension and Tristan da Cunha","changes":null}]
+[
+  {
+    "status": "red",
+    "country": "Afghanistan",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Angola",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Argentina",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Bahrain",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Bangladesh",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Bolivia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Botswana",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Brazil",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Burundi",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Cape Verde",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Chile",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Colombia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Congo (Democratic Republic)",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Costa Rica",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Ecuador",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Egypt",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Eswatini",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Ethiopia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "French Guiana",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Guyana",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "India",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Kenya",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Lesotho",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Malawi",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Maldives",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Mozambique",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Namibia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Nepal",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Oman",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Pakistan",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Panama",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Paraguay",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Peru",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Philippines",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Qatar",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Rwanda",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Seychelles",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Somalia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "South Africa",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Sri Lanka",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Sudan",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Suriname",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Tanzania",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Trinidad and Tobago",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "red",
+    "country": "Turkey",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "United Arab Emirates (UAE)",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Uruguay",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Venezuela",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Zambia",
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Zimbabwe",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Afghanistan",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Akrotiri and Dhekelia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Albania",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Algeria",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Andorra",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Anguilla",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Antigua and Barbuda",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Armenia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Aruba",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Austria",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Azerbaijan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "The Bahamas",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bahrain",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Barbados",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Belarus",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Belgium",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Belize",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Benin",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bermuda",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bhutan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bonaire, Sint Eustatius and   Saba",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bosnia and Herzegovina",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "British Antarctic   Territory",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "British Indian Ocean   Territory",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "British Virgin Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Bulgaria",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Burkina Faso",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cambodia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cameroon",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Canada",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cayman Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Central African Republic",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Chad",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "China",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Comoros",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Congo",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cook Islands, Tokelau and Niue",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Costa Rica",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Côte d’Ivoire",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Croatia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cuba",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Curaçao",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Cyprus",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Czech Republic (Czechia)",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Denmark",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Djibouti",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Dominica",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Dominican Republic",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Egypt",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "El Salvador",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Equatorial Guinea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Eritrea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Estonia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Fiji",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Finland",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "France",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "French Polynesia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Gabon",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "The Gambia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Georgia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Germany",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Ghana",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Greece (including islands)",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Greenland",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Grenada",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Guadeloupe",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Guatemala",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Guinea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Guinea-Bissau",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Haiti",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Honduras",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Hong Kong",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Hungary",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Indonesia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Iran",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Iraq",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Italy",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Jamaica",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Japan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Jordan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Kazakhstan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Kiribati",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Kosovo",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Kuwait",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Kyrgyzstan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Laos",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Latvia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Lebanon",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Liberia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Libya",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Liechtenstein",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Lithuania",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Luxembourg",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Macao",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Madagascar",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Malaysia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mali",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Malta",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Marshall Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Martinique",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mauritania",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mauritius",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mayotte",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mexico",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Micronesia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Moldova",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Monaco",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Mongolia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Montenegro",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Montserrat",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Morocco",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Myanmar (Burma)",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Nauru",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Netherlands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "New Caledonia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Nicaragua",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Niger",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Nigeria",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "North Korea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "North Macedonia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Norway",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "The Occupied Palestinian Territories",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Palau",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Papua New Guinea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Pitcairn, Henderson, Ducie and Oeno Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Poland",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Portugal (including the Azores and Madeira)",
+    "changes": "Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Réunion",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Romania",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Russia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Samoa",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "San Marino",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Sao Tome and Principe",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Saudi Arabia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Senegal",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Serbia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Sierra Leone",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Slovakia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Slovenia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Solomon Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "South Korea",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "South Sudan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Spain (including the Balearics and Canary Islands)",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Sri Lanka",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "St Kitts and Nevis",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "St Lucia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "St Maarten",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "St Martin and St Barthélemy",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "St Pierre and Miquelon",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "St Vincent and the   Grenadines",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Sudan",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Sweden",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Switzerland",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Syria",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Taiwan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Tajikistan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Thailand",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Timor-Leste",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Togo",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Tonga",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Trinidad and Tobago",
+    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+  },
+  {
+    "status": "amber",
+    "country": "Tunisia",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Turkmenistan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Turks and Caicos   Islands",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Tuvalu",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Uganda",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Ukraine",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "United States (USA)",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Uzbekistan",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Vanuatu",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Vietnam",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Wallis and Futuna",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Western Sahara",
+    "changes": null
+  },
+  {
+    "status": "amber",
+    "country": "Yemen",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Australia",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Brunei",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Falkland Islands",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Faroe Islands",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Gibraltar",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Iceland",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Israel and Jerusalem",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "New Zealand",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Portugal (including the Azores and Madeira)",
+    "changes": "Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "Singapore",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "South Georgia and South Sandwich Islands",
+    "changes": null
+  },
+  {
+    "status": "green",
+    "country": "St Helena, Ascension and Tristan da Cunha",
+    "changes": null
+  }
+]
