@@ -1,7 +1,7 @@
 import {
   DOMParser,
   Element,
-} from "https://deno.land/x/deno_dom/deno-dom-wasm.ts";
+} from "https://deno.land/x/deno_dom@v0.1.12-alpha/deno-dom-wasm.ts";
 
 interface TableData {
   status?: string;

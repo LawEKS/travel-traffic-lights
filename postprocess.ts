@@ -1,9 +1,5 @@
 import { extractFlatCountyData } from "./extract-flat-country-data.ts";
-import {
-  writeJSON,
-  writeTXT,
-  removeFile,
-} from "https://deno.land/x/flat/mod.ts";
+import { removeFile, writeTXT } from "https://deno.land/x/flat/mod.ts";
 
 try {
   const filename = Deno.args[0];
@@ -11,7 +7,7 @@ try {
   const data = extractFlatCountyData(html);
   await Deno.writeTextFile(
     "travel-traffic-lights.json",
-    JSON.stringify(data, null, 2)
+    JSON.stringify(data, null, 2),
   );
   await removeFile(filename);
   await removeFile("errors.txt").catch(() => {});
