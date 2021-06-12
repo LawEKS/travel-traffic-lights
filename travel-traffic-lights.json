@@ -2,7 +2,7 @@
   {
     "status": "red",
     "country": "Afghanistan",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -17,7 +17,7 @@
   {
     "status": "red",
     "country": "Bahrain",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -67,7 +67,7 @@
   {
     "status": "red",
     "country": "Costa Rica",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -77,7 +77,7 @@
   {
     "status": "red",
     "country": "Egypt",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -197,12 +197,12 @@
   {
     "status": "red",
     "country": "Sri Lanka",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
     "country": "Sudan",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -217,7 +217,7 @@
   {
     "status": "red",
     "country": "Trinidad and Tobago",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "red",
@@ -248,11 +248,6 @@
     "status": "red",
     "country": "Zimbabwe",
     "changes": null
-  },
-  {
-    "status": "amber",
-    "country": "Afghanistan",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "amber",
@@ -308,11 +303,6 @@
     "status": "amber",
     "country": "The Bahamas",
     "changes": null
-  },
-  {
-    "status": "amber",
-    "country": "Bahrain",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "amber",
@@ -436,11 +426,6 @@
   },
   {
     "status": "amber",
-    "country": "Costa Rica",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
-  },
-  {
-    "status": "amber",
     "country": "Côte d’Ivoire",
     "changes": null
   },
@@ -488,11 +473,6 @@
     "status": "amber",
     "country": "Dominican Republic",
     "changes": null
-  },
-  {
-    "status": "amber",
-    "country": "Egypt",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "amber",
@@ -882,7 +862,7 @@
   {
     "status": "amber",
     "country": "Portugal (including the Azores and Madeira)",
-    "changes": "Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
+    "changes": "Moved to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -966,11 +946,6 @@
   },
   {
     "status": "amber",
-    "country": "Sri Lanka",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
-  },
-  {
-    "status": "amber",
     "country": "St Kitts and Nevis",
     "changes": null
   },
@@ -998,11 +973,6 @@
     "status": "amber",
     "country": "St Vincent and the   Grenadines",
     "changes": null
-  },
-  {
-    "status": "amber",
-    "country": "Sudan",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "amber",
@@ -1048,11 +1018,6 @@
     "status": "amber",
     "country": "Tonga",
     "changes": null
-  },
-  {
-    "status": "amber",
-    "country": "Trinidad and Tobago",
-    "changes": "Currently on the amber list. Will move to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
   },
   {
     "status": "amber",
@@ -1158,11 +1123,6 @@
     "status": "green",
     "country": "New Zealand",
     "changes": null
-  },
-  {
-    "status": "green",
-    "country": "Portugal (including the Azores and Madeira)",
-    "changes": "Currently on the green list. Will move to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
   },
   {
     "status": "green",
