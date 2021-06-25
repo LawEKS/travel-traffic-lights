@@ -2,7 +2,7 @@
   {
     "status": "red",
     "country": "Afghanistan",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
   },
   {
     "status": "red",
@@ -17,7 +17,7 @@
   {
     "status": "red",
     "country": "Bahrain",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
   },
   {
     "status": "red",
@@ -67,7 +67,12 @@
   {
     "status": "red",
     "country": "Costa Rica",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Dominican Republic",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
@@ -77,7 +82,12 @@
   {
     "status": "red",
     "country": "Egypt",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Eritrea",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
@@ -98,6 +108,11 @@
     "status": "red",
     "country": "Guyana",
     "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Haiti",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
@@ -123,6 +138,11 @@
     "status": "red",
     "country": "Maldives",
     "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Mongolia",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
@@ -197,12 +217,12 @@
   {
     "status": "red",
     "country": "Sri Lanka",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
   },
   {
     "status": "red",
     "country": "Sudan",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
   },
   {
     "status": "red",
@@ -217,12 +237,22 @@
   {
     "status": "red",
     "country": "Trinidad and Tobago",
-    "changes": "Moved to red list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the red list rules."
+    "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Tunisia",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
     "country": "Turkey",
     "changes": null
+  },
+  {
+    "status": "red",
+    "country": "Uganda",
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "red",
@@ -272,12 +302,12 @@
   {
     "status": "amber",
     "country": "Anguilla",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
     "country": "Antigua and Barbuda",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -307,7 +337,7 @@
   {
     "status": "amber",
     "country": "Barbados",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -332,7 +362,7 @@
   {
     "status": "amber",
     "country": "Bermuda",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -341,7 +371,7 @@
   },
   {
     "status": "amber",
-    "country": "Bonaire, Sint Eustatius and   Saba",
+    "country": "Bonaire, Sint Eustatius and Saba",
     "changes": null
   },
   {
@@ -351,18 +381,18 @@
   },
   {
     "status": "amber",
-    "country": "British Antarctic   Territory",
-    "changes": null
+    "country": "British Antarctic Territory",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
-    "country": "British Indian Ocean   Territory",
-    "changes": null
+    "country": "British Indian Ocean Territory",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
     "country": "British Virgin Islands",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -392,7 +422,7 @@
   {
     "status": "amber",
     "country": "Cayman Islands",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -467,12 +497,12 @@
   {
     "status": "amber",
     "country": "Dominica",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
     "country": "Dominican Republic",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -487,7 +517,7 @@
   {
     "status": "amber",
     "country": "Eritrea",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -552,7 +582,7 @@
   {
     "status": "amber",
     "country": "Grenada",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -577,7 +607,7 @@
   {
     "status": "amber",
     "country": "Haiti",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -717,7 +747,7 @@
   {
     "status": "amber",
     "country": "Malta",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -767,7 +797,7 @@
   {
     "status": "amber",
     "country": "Mongolia",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -777,7 +807,7 @@
   {
     "status": "amber",
     "country": "Montserrat",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -852,7 +882,7 @@
   {
     "status": "amber",
     "country": "Pitcairn, Henderson, Ducie and Oeno Islands",
-    "changes": null
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -862,7 +892,7 @@
   {
     "status": "amber",
     "country": "Portugal (including the Azores and Madeira)",
-    "changes": "Moved to amber list 4am, Tuesday 8 June. If you arrive in England after then you need to follow the amber list rules."
+    "changes": "Madeira will move to the green list 4am, Wednesday 30 June. If you arrive in England from Madeira before then, you need to follow the amber list rules. Mainland Portugal and the Azores will stay on the amber list."
   },
   {
     "status": "amber",
@@ -942,7 +972,7 @@
   {
     "status": "amber",
     "country": "Spain (including the Balearics and Canary Islands)",
-    "changes": null
+    "changes": "The Balearic islands will move to the green list 4am, Wednesday 30 June. If you arrive in England from the Balearics before then, you need to follow the amber list rules. Mainland Spain and the Canary Islands will stay on the amber list."
   },
   {
     "status": "amber",
@@ -971,7 +1001,7 @@
   },
   {
     "status": "amber",
-    "country": "St Vincent and the   Grenadines",
+    "country": "St Vincent and the Grenadines",
     "changes": null
   },
   {
@@ -1022,7 +1052,7 @@
   {
     "status": "amber",
     "country": "Tunisia",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -1031,8 +1061,8 @@
   },
   {
     "status": "amber",
-    "country": "Turks and Caicos   Islands",
-    "changes": null
+    "country": "Turks and Caicos Islands",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -1042,7 +1072,7 @@
   {
     "status": "amber",
     "country": "Uganda",
-    "changes": null
+    "changes": "Will move to the red list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "amber",
@@ -1086,13 +1116,63 @@
   },
   {
     "status": "green",
+    "country": "Anguilla",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "Antigua and Barbuda",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
     "country": "Australia",
     "changes": null
   },
   {
     "status": "green",
+    "country": "Balearic islands (Formentera, Ibiza, Mallorca, Menorca)",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules. Mainland Spain and the Canary Islands will stay on the amber list."
+  },
+  {
+    "status": "green",
+    "country": "Barbados",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "Bermuda",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "British Antarctic Territory",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "British Indian Ocean Territory",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "British Virgin Islands",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
     "country": "Brunei",
     "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Cayman Islands",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "Dominica",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "green",
@@ -1111,18 +1191,43 @@
   },
   {
     "status": "green",
+    "country": "Grenada",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
     "country": "Iceland",
     "changes": null
   },
   {
     "status": "green",
     "country": "Israel and Jerusalem",
-    "changes": null
+    "changes": "Green watchlist – at risk of moving from green to amber."
+  },
+  {
+    "status": "green",
+    "country": "Madeira",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules. Mainland Portugal and the Azores will stay on the amber list."
+  },
+  {
+    "status": "green",
+    "country": "Malta",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
+  },
+  {
+    "status": "green",
+    "country": "Montserrat",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "green",
     "country": "New Zealand",
     "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Pitcairn, Henderson, Ducie and Oeno Islands",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   },
   {
     "status": "green",
@@ -1138,5 +1243,10 @@
     "status": "green",
     "country": "St Helena, Ascension and Tristan da Cunha",
     "changes": null
+  },
+  {
+    "status": "green",
+    "country": "Turks and Caicos Islands",
+    "changes": "Will move to the green list 4am, Wednesday 30 June. If you arrive in England before then, you need to follow the amber list rules."
   }
 ]
