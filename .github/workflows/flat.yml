@@ -3,7 +3,7 @@ on:
   push:
     paths:
       - .github/workflows/flat.yml
-      - ./postprocess.js
+      - ./postprocess.ts
   schedule:
     - cron: 0 0 * * *
 jobs:
@@ -22,3 +22,6 @@ jobs:
           http_url: https://www.gov.uk/guidance/red-amber-and-green-list-rules-for-entering-england
           downloaded_filename: index.html
           postprocess: ./postprocess.ts
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          GOOGLE_RATE_LIMIT: ${{ secrets.GOOGLE_RATE_LIMIT }}

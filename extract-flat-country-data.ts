@@ -3,7 +3,7 @@ import {
   Element,
 } from "https://deno.land/x/deno_dom@v0.1.12-alpha/deno-dom-wasm.ts";
 
-interface TableData {
+export interface TableData {
   status?: string;
   country?: string;
   changes: string | null;
