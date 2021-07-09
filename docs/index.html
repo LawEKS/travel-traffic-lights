@@ -5,16 +5,29 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>🚦</title>
+    <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
     <style>
+      #map {
+        height: 100%;
+      }
+
+      html,
       body {
-        background-color: orangered;
-        font-size: 5rem;
-        text-align: center;
+        height: 100%;
+        margin: 0;
+        padding: 0;
       }
     </style>
     <script src="./travel-traffic-lights.js"></script>
+    <script src="./index.js"></script>
   </head>
   <body>
-    🚦
+    <div id="map"></div>
+
+    <!-- Async script executes immediately and must be after any DOM elements used in callback. -->
+    <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCzr7-tNI7j9BqFgFEakLy4qNHbrwDMYFA&callback=initMap&libraries=visualization&v=weekly"
+      async
+    ></script>
   </body>
 </html>
