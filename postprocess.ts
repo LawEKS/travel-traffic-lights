@@ -8,11 +8,12 @@ try {
   const html = await Deno.readTextFile(filename);
   const countryData = extractFlatCountyData(html);
   const data = await addLocationData(countryData);
+  const json = JSON.stringify(data, null, 2);
+  await Deno.writeTextFile("travel-traffic-lights.json", json);
   await Deno.writeTextFile(
-    "travel-traffic-lights.json",
-    JSON.stringify(data, null, 2),
+    "public/travel-traffic-lights.js",
+    `const data = ${json}`,
   );
-
   await removeFile(filename);
   await removeFile("errors.txt").catch(() => {});
 } catch (error) {

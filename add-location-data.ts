@@ -30,7 +30,9 @@ export const addLocationData = async (
       }));
     });
     const results = await Promise.all(requests);
-    await delay(60 * 1000);
+    if (chunks.length < numberOfChunks - 1) {
+      await delay(60 * 1000);
+    }
     chunks.push(results);
   }
 
