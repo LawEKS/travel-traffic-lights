@@ -11,7 +11,7 @@ try {
   const json = JSON.stringify(data, null, 2);
   await Deno.writeTextFile("travel-traffic-lights.json", json);
   await Deno.writeTextFile(
-    "public/travel-traffic-lights.js",
+    "docs/travel-traffic-lights.js",
     `const data = ${json}`,
   );
   await removeFile(filename);
