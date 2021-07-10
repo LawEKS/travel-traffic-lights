@@ -634,8 +634,8 @@ const data = [
     "country": "Bonaire, Sint Eustatius and Saba",
     "changes": null,
     "location": {
-      "lat": 12.1783611,
-      "lng": -68.2385339
+      "lat": 17.4890306,
+      "lng": -62.973555
     }
   },
   {
@@ -814,8 +814,8 @@ const data = [
     "country": "Djibouti",
     "changes": null,
     "location": {
-      "lat": 38.905372,
-      "lng": -77.034981
+      "lat": 36.0676041,
+      "lng": -79.7568107
     }
   },
   {
@@ -931,8 +931,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.9855914,
-      "lng": -105.2272054
+      "lat": 39.074208,
+      "lng": 21.824312
     }
   },
   {
@@ -1417,8 +1417,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 31.046051,
-      "lng": 34.851612
+      "lat": 31.952162,
+      "lng": 35.233154
     }
   },
   {
