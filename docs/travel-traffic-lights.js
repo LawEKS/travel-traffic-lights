@@ -634,8 +634,8 @@ const data = [
     "country": "Bonaire, Sint Eustatius and Saba",
     "changes": null,
     "location": {
-      "lat": 17.4890306,
-      "lng": -62.973555
+      "lat": 12.1783611,
+      "lng": -68.2385339
     }
   },
   {
