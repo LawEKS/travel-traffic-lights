@@ -1102,8 +1102,8 @@ const data = [
     "country": "Jordan",
     "changes": null,
     "location": {
-      "lat": 36.0885599,
-      "lng": -95.92607029999999
+      "lat": 36.4297181,
+      "lng": -94.3747708
     }
   },
   {
