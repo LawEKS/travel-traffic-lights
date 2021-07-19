@@ -850,8 +850,8 @@ const data = [
     "country": "Djibouti",
     "changes": null,
     "location": {
-      "lat": 36.0676041,
-      "lng": -79.7568107
+      "lat": 38.905372,
+      "lng": -77.034981
     }
   },
   {
@@ -1102,8 +1102,8 @@ const data = [
     "country": "Jordan",
     "changes": null,
     "location": {
-      "lat": 36.4297181,
-      "lng": -94.3747708
+      "lat": 36.0885599,
+      "lng": -95.92607029999999
     }
   },
   {
