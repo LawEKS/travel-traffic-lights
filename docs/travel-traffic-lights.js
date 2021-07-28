@@ -949,8 +949,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.074208,
-      "lng": 21.824312
+      "lat": 39.9855914,
+      "lng": -105.2272054
     }
   },
   {
@@ -1579,8 +1579,8 @@ const data = [
     "country": "Spain, including the Canary Islands and the Balearic islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": "The Balearic islands moved to the amber list 4am, Monday 19 July. The Canary Islands and mainland Spain was already on the amber list.",
     "location": {
-      "lat": 39.0200099,
-      "lng": 1.4821482
+      "lat": 38.6964006,
+      "lng": 1.4531355
     }
   },
   {
