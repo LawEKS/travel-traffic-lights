@@ -670,8 +670,8 @@
     "country": "Bonaire, Sint Eustatius and Saba",
     "changes": null,
     "location": {
-      "lat": 17.4890306,
-      "lng": -62.973555
+      "lat": 12.1783611,
+      "lng": -68.2385339
     }
   },
   {
@@ -949,8 +949,8 @@
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.9855914,
-      "lng": -105.2272054
+      "lat": 39.7552108,
+      "lng": -86.1594982
     }
   },
   {
@@ -1576,11 +1576,11 @@
   },
   {
     "status": "amber",
-    "country": "Spain, including the Canary Islands and the Balearic islands (Formentera, Ibiza, Mallorca, Menorca)",
+    "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 38.6964006,
-      "lng": 1.4531355
+      "lat": 39.0200099,
+      "lng": 1.4821482
     }
   },
   {
@@ -1892,7 +1892,7 @@
   {
     "status": "green",
     "country": "Croatia",
-    "changes": null,
+    "changes": "Green watchlist – at risk of moving from green to amber.",
     "location": {
       "lat": 45.1,
       "lng": 15.2000001
@@ -2045,7 +2045,7 @@
   {
     "status": "green",
     "country": "Taiwan",
-    "changes": null,
+    "changes": "Green watchlist – at risk of moving from green to amber.",
     "location": {
       "lat": 23.69781,
       "lng": 120.960515
