@@ -1426,8 +1426,8 @@
     "country": "Papua New Guinea",
     "changes": null,
     "location": {
-      "lat": -6.314992999999999,
-      "lng": 143.95555
+      "lat": -5.0122202,
+      "lng": 141.3470159
     }
   },
   {
@@ -1579,8 +1579,8 @@
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 39.0200099,
-      "lng": 1.4821482
+      "lat": 38.6964006,
+      "lng": 1.4531355
     }
   },
   {
