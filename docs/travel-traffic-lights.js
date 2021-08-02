@@ -1426,8 +1426,8 @@ const data = [
     "country": "Papua New Guinea",
     "changes": null,
     "location": {
-      "lat": 38.9028759,
-      "lng": -77.04239319999999
+      "lat": -8.5190434,
+      "lng": 149.1041758
     }
   },
   {
