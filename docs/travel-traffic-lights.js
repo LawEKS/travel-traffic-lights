@@ -778,8 +778,8 @@ const data = [
     "country": "Cook Islands, Tokelau and Niue",
     "changes": null,
     "location": {
-      "lat": -19.054445,
-      "lng": -169.867233
+      "lat": -9.200199999999999,
+      "lng": -171.8484
     }
   },
   {
@@ -1363,8 +1363,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 31.952162,
-      "lng": 35.233154
+      "lat": 37.09024,
+      "lng": -95.712891
     }
   },
   {
