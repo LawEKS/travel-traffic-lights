@@ -931,8 +931,8 @@
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.9855914,
-      "lng": -105.2272054
+      "lat": 40.8116262,
+      "lng": -73.0786494
     }
   },
   {
@@ -1381,8 +1381,8 @@
     "country": "Papua New Guinea",
     "changes": null,
     "location": {
-      "lat": 38.9028759,
-      "lng": -77.04239319999999
+      "lat": -8.5190434,
+      "lng": 149.1041758
     }
   },
   {
@@ -1507,8 +1507,8 @@
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 38.6964006,
-      "lng": 1.4531355
+      "lat": 39.0200099,
+      "lng": 1.4821482
     }
   },
   {
