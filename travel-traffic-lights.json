@@ -289,6 +289,15 @@
   },
   {
     "status": "red",
+    "country": "Montenegro",
+    "changes": "Currently on the amber list. Will move to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
+    "location": {
+      "lat": 42.708678,
+      "lng": 19.37439
+    }
+  },
+  {
+    "status": "red",
     "country": "Mozambique",
     "changes": null,
     "location": {
@@ -465,6 +474,15 @@
     "location": {
       "lat": -6.369028,
       "lng": 34.888822
+    }
+  },
+  {
+    "status": "red",
+    "country": "Thailand",
+    "changes": "Currently on the amber list. Will move to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
+    "location": {
+      "lat": 15.870032,
+      "lng": 100.992541
     }
   },
   {
@@ -722,7 +740,7 @@
   {
     "status": "amber",
     "country": "Canada",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 56.130366,
       "lng": -106.346771
@@ -821,7 +839,7 @@
   {
     "status": "amber",
     "country": "Denmark",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 56.26392,
       "lng": 9.501785
@@ -832,8 +850,8 @@
     "country": "Djibouti",
     "changes": null,
     "location": {
-      "lat": 36.0676041,
-      "lng": -79.7568107
+      "lat": 38.905372,
+      "lng": -77.034981
     }
   },
   {
@@ -875,7 +893,7 @@
   {
     "status": "amber",
     "country": "Finland",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 61.92410999999999,
       "lng": 25.7481511
@@ -931,8 +949,8 @@
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.7552108,
-      "lng": -86.1594982
+      "lat": 39.9855914,
+      "lng": -105.2272054
     }
   },
   {
@@ -1057,8 +1075,8 @@
     "country": "Jordan",
     "changes": null,
     "location": {
-      "lat": 30.585164,
-      "lng": 36.238414
+      "lat": 36.0885599,
+      "lng": -95.92607029999999
     }
   },
   {
@@ -1145,7 +1163,7 @@
   {
     "status": "amber",
     "country": "Liechtenstein",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 47.166,
       "lng": 9.555373
@@ -1154,7 +1172,7 @@
   {
     "status": "amber",
     "country": "Lithuania",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 55.169438,
       "lng": 23.881275
@@ -1271,7 +1289,7 @@
   {
     "status": "amber",
     "country": "Montenegro",
-    "changes": null,
+    "changes": "Will move to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
     "location": {
       "lat": 42.708678,
       "lng": 19.37439
@@ -1381,8 +1399,8 @@
     "country": "Papua New Guinea",
     "changes": null,
     "location": {
-      "lat": -5.0122202,
-      "lng": 141.3470159
+      "lat": -8.5190434,
+      "lng": 149.1041758
     }
   },
   {
@@ -1397,7 +1415,7 @@
   {
     "status": "amber",
     "country": "Portugal (including the Azores)",
-    "changes": "Madeira is on the green watchlist.",
+    "changes": "Madeira is on the green watchlist.   The Azores will move to the green list 4am, Monday 30 August. If you arrive in England from the Azores before then you must follow the amber list rules.",
     "location": {
       "lat": 37.7412488,
       "lng": -25.6755944
@@ -1507,8 +1525,8 @@
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 28.2915637,
-      "lng": -16.6291304
+      "lat": 38.6964006,
+      "lng": 1.4531355
     }
   },
   {
@@ -1577,7 +1595,7 @@
   {
     "status": "amber",
     "country": "Switzerland",
-    "changes": null,
+    "changes": "Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
     "location": {
       "lat": 46.818188,
       "lng": 8.227511999999999
@@ -1604,7 +1622,7 @@
   {
     "status": "amber",
     "country": "Thailand",
-    "changes": null,
+    "changes": "Will move to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
     "location": {
       "lat": 15.870032,
       "lng": 100.992541
@@ -1702,6 +1720,15 @@
   },
   {
     "status": "amber",
+    "country": "Vatican City",
+    "changes": null,
+    "location": {
+      "lat": 41.902916,
+      "lng": 12.453389
+    }
+  },
+  {
+    "status": "amber",
     "country": "Vietnam",
     "changes": null,
     "location": {
@@ -1783,6 +1810,15 @@
   },
   {
     "status": "green",
+    "country": "The Azores",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.        Mainland Portugal is on the amber list.",
+    "location": {
+      "lat": 37.7412488,
+      "lng": -25.6755944
+    }
+  },
+  {
+    "status": "green",
     "country": "Barbados",
     "changes": "Green watchlist – at risk of moving from green to amber.",
     "location": {
@@ -1828,6 +1864,15 @@
   },
   {
     "status": "green",
+    "country": "Canada",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 56.130366,
+      "lng": -106.346771
+    }
+  },
+  {
+    "status": "green",
     "country": "Cayman Islands",
     "changes": "Green watchlist – at risk of moving from green to amber.",
     "location": {
@@ -1842,6 +1887,15 @@
     "location": {
       "lat": 45.1,
       "lng": 15.2000001
+    }
+  },
+  {
+    "status": "green",
+    "country": "Denmark",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 56.26392,
+      "lng": 9.501785
     }
   },
   {
@@ -1869,6 +1923,15 @@
     "location": {
       "lat": 61.89263500000001,
       "lng": -6.9118061
+    }
+  },
+  {
+    "status": "green",
+    "country": "Finland",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 61.92410999999999,
+      "lng": 25.7481511
     }
   },
   {
@@ -1901,7 +1964,7 @@
   {
     "status": "green",
     "country": "Hong Kong",
-    "changes": ".",
+    "changes": null,
     "location": {
       "lat": 22.3193039,
       "lng": 114.1693611
@@ -1932,6 +1995,24 @@
     "location": {
       "lat": 56.879635,
       "lng": 24.603189
+    }
+  },
+  {
+    "status": "green",
+    "country": "Liechtenstein",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 47.166,
+      "lng": 9.555373
+    }
+  },
+  {
+    "status": "green",
+    "country": "Lithuania",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 55.169438,
+      "lng": 23.881275
     }
   },
   {
@@ -2040,6 +2121,15 @@
     "location": {
       "lat": -24.1434812,
       "lng": -10.0306945
+    }
+  },
+  {
+    "status": "green",
+    "country": "Switzerland",
+    "changes": "Currently on the amber list. Will move to the green list 4am, Monday 30 August. If you arrive in England before then you must follow the amber list rules.",
+    "location": {
+      "lat": 46.818188,
+      "lng": 8.227511999999999
     }
   },
   {
