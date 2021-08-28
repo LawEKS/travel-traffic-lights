@@ -796,8 +796,8 @@ const data = [
     "country": "Cook Islands, Tokelau and Niue",
     "changes": null,
     "location": {
-      "lat": -9.200199999999999,
-      "lng": -171.8484
+      "lat": -19.054445,
+      "lng": -169.867233
     }
   },
   {
@@ -850,8 +850,8 @@ const data = [
     "country": "Djibouti",
     "changes": null,
     "location": {
-      "lat": 38.905372,
-      "lng": -77.034981
+      "lat": 36.0676041,
+      "lng": -79.7568107
     }
   },
   {
@@ -1381,8 +1381,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 31.952162,
-      "lng": 35.233154
+      "lat": 37.09024,
+      "lng": -95.712891
     }
   },
   {
@@ -1525,8 +1525,8 @@ const data = [
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 38.6964006,
-      "lng": 1.4531355
+      "lat": 39.0200099,
+      "lng": 1.4821482
     }
   },
   {
