@@ -787,8 +787,8 @@ const data = [
     "country": "Cook Islands, Tokelau and Niue",
     "changes": null,
     "location": {
-      "lat": -19.054445,
-      "lng": -169.867233
+      "lat": -9.200199999999999,
+      "lng": -171.8484
     }
   },
   {
@@ -922,8 +922,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.98558560000001,
-      "lng": -105.2272113
+      "lat": 39.7552108,
+      "lng": -86.1594982
     }
   },
   {
