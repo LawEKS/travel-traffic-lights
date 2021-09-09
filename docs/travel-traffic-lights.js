@@ -1327,8 +1327,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 31.952162,
-      "lng": 35.233154
+      "lat": 38.9413024,
+      "lng": -77.066417
     }
   },
   {
