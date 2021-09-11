@@ -787,8 +787,8 @@ const data = [
     "country": "Cook Islands, Tokelau and Niue",
     "changes": null,
     "location": {
-      "lat": -9.200199999999999,
-      "lng": -171.8484
+      "lat": -19.054445,
+      "lng": -169.867233
     }
   },
   {
@@ -922,8 +922,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.7552108,
-      "lng": -86.1594982
+      "lat": 39.9855853,
+      "lng": -105.2272116
     }
   },
   {
@@ -1327,8 +1327,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 31.952162,
-      "lng": 35.233154
+      "lat": 38.9413024,
+      "lng": -77.066417
     }
   },
   {
