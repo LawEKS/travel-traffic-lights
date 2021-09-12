@@ -922,8 +922,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 39.9855853,
-      "lng": -105.2272116
+      "lat": 40.5925695,
+      "lng": -105.0764999
     }
   },
   {
@@ -1327,8 +1327,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 38.9413024,
-      "lng": -77.066417
+      "lat": 31.952162,
+      "lng": 35.233154
     }
   },
   {
@@ -1471,8 +1471,8 @@ const data = [
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 39.0200099,
-      "lng": 1.4821482
+      "lat": 38.6964006,
+      "lng": 1.4531355
     }
   },
   {
