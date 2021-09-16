@@ -922,8 +922,8 @@ const data = [
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 42.3549953,
-      "lng": -71.05682039999999
+      "lat": 28.3771857,
+      "lng": -81.57074
     }
   },
   {
@@ -1345,8 +1345,8 @@ const data = [
     "country": "Papua New Guinea",
     "changes": null,
     "location": {
-      "lat": -5.0122202,
-      "lng": 141.3470159
+      "lat": -8.5190434,
+      "lng": 149.1041758
     }
   },
   {
