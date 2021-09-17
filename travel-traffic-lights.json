@@ -922,8 +922,8 @@
     "country": "Greece (including islands)",
     "changes": null,
     "location": {
-      "lat": 28.3771857,
-      "lng": -81.57074
+      "lat": 43.76986,
+      "lng": -79.2683804
     }
   },
   {
@@ -1471,8 +1471,8 @@
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 38.6964006,
-      "lng": 1.4531355
+      "lat": 39.0200099,
+      "lng": 1.4821482
     }
   },
   {
@@ -1498,8 +1498,8 @@
     "country": "St Maarten",
     "changes": null,
     "location": {
-      "lat": 18.04248,
-      "lng": -63.05483
+      "lat": 18.0308266,
+      "lng": -63.0736329
     }
   },
   {
