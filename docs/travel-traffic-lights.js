@@ -29,7 +29,7 @@ const data = [
   {
     "status": "red",
     "country": "Bangladesh",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 23.684994,
       "lng": 90.356331
@@ -146,7 +146,7 @@ const data = [
   {
     "status": "red",
     "country": "Egypt",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 26.820553,
       "lng": 30.802498
@@ -227,7 +227,7 @@ const data = [
   {
     "status": "red",
     "country": "Kenya",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": -0.023559,
       "lng": 37.906193
@@ -254,7 +254,7 @@ const data = [
   {
     "status": "red",
     "country": "Maldives",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 3.202778,
       "lng": 73.22068
@@ -290,7 +290,7 @@ const data = [
   {
     "status": "red",
     "country": "Montenegro",
-    "changes": "Moved to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
+    "changes": null,
     "location": {
       "lat": 42.708678,
       "lng": 19.37439
@@ -335,7 +335,7 @@ const data = [
   {
     "status": "red",
     "country": "Oman",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 21.4735329,
       "lng": 55.975413
@@ -344,7 +344,7 @@ const data = [
   {
     "status": "red",
     "country": "Pakistan",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 30.375321,
       "lng": 69.34511599999999
@@ -443,7 +443,7 @@ const data = [
   {
     "status": "red",
     "country": "Sri Lanka",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 7.873053999999999,
       "lng": 80.77179699999999
@@ -479,7 +479,7 @@ const data = [
   {
     "status": "red",
     "country": "Thailand",
-    "changes": "Moved to the red list 4am, Monday 30 August. If you arrive in England after then you must follow the red list rules.",
+    "changes": null,
     "location": {
       "lat": 15.870032,
       "lng": 100.992541
@@ -506,7 +506,7 @@ const data = [
   {
     "status": "red",
     "country": "Turkey",
-    "changes": null,
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
     "location": {
       "lat": 38.963745,
       "lng": 35.243322
@@ -645,6 +645,15 @@ const data = [
     "location": {
       "lat": 53.709807,
       "lng": 27.953389
+    }
+  },
+  {
+    "status": "amber",
+    "country": "Bangladesh",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 23.684994,
+      "lng": 90.356331
     }
   },
   {
@@ -834,6 +843,15 @@ const data = [
     "location": {
       "lat": 36.0676041,
       "lng": -79.7568107
+    }
+  },
+  {
+    "status": "amber",
+    "country": "Egypt",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 26.820553,
+      "lng": 30.802498
     }
   },
   {
@@ -1063,6 +1081,15 @@ const data = [
   },
   {
     "status": "amber",
+    "country": "Kenya",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": -0.023559,
+      "lng": 37.906193
+    }
+  },
+  {
+    "status": "amber",
     "country": "Kiribati",
     "changes": null,
     "location": {
@@ -1167,6 +1194,15 @@ const data = [
     "location": {
       "lat": 4.210484,
       "lng": 101.975766
+    }
+  },
+  {
+    "status": "amber",
+    "country": "Maldives",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 3.202778,
+      "lng": 73.22068
     }
   },
   {
@@ -1333,6 +1369,24 @@ const data = [
   },
   {
     "status": "amber",
+    "country": "Oman",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 21.4735329,
+      "lng": 55.975413
+    }
+  },
+  {
+    "status": "amber",
+    "country": "Pakistan",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 30.375321,
+      "lng": 69.34511599999999
+    }
+  },
+  {
+    "status": "amber",
     "country": "Palau",
     "changes": null,
     "location": {
@@ -1477,6 +1531,15 @@ const data = [
   },
   {
     "status": "amber",
+    "country": "Sri Lanka",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 7.873053999999999,
+      "lng": 80.77179699999999
+    }
+  },
+  {
+    "status": "amber",
     "country": "St Kitts and Nevis",
     "changes": null,
     "location": {
@@ -1498,8 +1561,8 @@ const data = [
     "country": "St Maarten",
     "changes": null,
     "location": {
-      "lat": 18.0308266,
-      "lng": -63.0736329
+      "lat": 18.04248,
+      "lng": -63.05483
     }
   },
   {
@@ -1581,6 +1644,15 @@ const data = [
     "location": {
       "lat": -21.178986,
       "lng": -175.198242
+    }
+  },
+  {
+    "status": "amber",
+    "country": "Turkey",
+    "changes": "Moving to the amber list 4am, Wednesday 22 September. If you arrive in England before then you must follow the red list rules.",
+    "location": {
+      "lat": 38.963745,
+      "lng": 35.243322
     }
   },
   {
@@ -1739,7 +1811,7 @@ const data = [
   {
     "status": "green",
     "country": "The Azores",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.        Mainland Portugal is on the amber list.",
+    "changes": "Mainland Portugal is on the amber list.",
     "location": {
       "lat": 37.7412488,
       "lng": -25.6755944
@@ -1793,7 +1865,7 @@ const data = [
   {
     "status": "green",
     "country": "Canada",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": null,
     "location": {
       "lat": 56.130366,
       "lng": -106.346771
@@ -1820,7 +1892,7 @@ const data = [
   {
     "status": "green",
     "country": "Denmark",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": null,
     "location": {
       "lat": 56.26392,
       "lng": 9.501785
@@ -1856,7 +1928,7 @@ const data = [
   {
     "status": "green",
     "country": "Finland",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": null,
     "location": {
       "lat": 61.92410999999999,
       "lng": 25.7481511
@@ -1928,7 +2000,7 @@ const data = [
   {
     "status": "green",
     "country": "Liechtenstein",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": ".",
     "location": {
       "lat": 47.166,
       "lng": 9.555373
@@ -1937,7 +2009,7 @@ const data = [
   {
     "status": "green",
     "country": "Lithuania",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": null,
     "location": {
       "lat": 55.169438,
       "lng": 23.881275
@@ -2054,7 +2126,7 @@ const data = [
   {
     "status": "green",
     "country": "Switzerland",
-    "changes": "Moved to the green list 4am, Monday 30 August. If you arrived in England before then you must follow the amber list rules.",
+    "changes": null,
     "location": {
       "lat": 46.818188,
       "lng": 8.227511999999999
