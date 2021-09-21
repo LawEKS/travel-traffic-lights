@@ -796,8 +796,8 @@ const data = [
     "country": "Cook Islands, Tokelau and Niue",
     "changes": null,
     "location": {
-      "lat": -9.200199999999999,
-      "lng": -171.8484
+      "lat": -19.054445,
+      "lng": -169.867233
     }
   },
   {
@@ -1066,8 +1066,8 @@ const data = [
     "country": "Jordan",
     "changes": null,
     "location": {
-      "lat": 30.585164,
-      "lng": 36.238414
+      "lat": 36.0885599,
+      "lng": -95.92607029999999
     }
   },
   {
@@ -1525,8 +1525,8 @@ const data = [
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 39.0200099,
-      "lng": 1.4821482
+      "lat": 38.6964006,
+      "lng": 1.4531355
     }
   },
   {
@@ -1561,8 +1561,8 @@ const data = [
     "country": "St Maarten",
     "changes": null,
     "location": {
-      "lat": 18.04248,
-      "lng": -63.05483
+      "lat": 18.0708298,
+      "lng": -63.0500809
     }
   },
   {
