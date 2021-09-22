@@ -1525,8 +1525,8 @@ const data = [
     "country": "Spain, including the Canary Islands and the Balearic Islands (Formentera, Ibiza, Mallorca, Menorca)",
     "changes": null,
     "location": {
-      "lat": 38.6964006,
-      "lng": 1.4531355
+      "lat": 39.0200099,
+      "lng": 1.4821482
     }
   },
   {
@@ -1570,8 +1570,8 @@ const data = [
     "country": "St Martin and St Barthélemy",
     "changes": null,
     "location": {
-      "lat": 18.06886,
-      "lng": -63.086006
+      "lat": 18.0699901,
+      "lng": -63.07960509999999
     }
   },
   {
