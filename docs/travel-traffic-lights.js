@@ -1291,8 +1291,8 @@ const data = [
     "country": "The Occupied Palestinian Territories",
     "changes": null,
     "location": {
-      "lat": 37.09024,
-      "lng": -95.712891
+      "lat": 31.952162,
+      "lng": 35.233154
     }
   },
   {
@@ -1489,8 +1489,8 @@ const data = [
     "country": "St Maarten",
     "changes": null,
     "location": {
-      "lat": 18.0708298,
-      "lng": -63.0500809
+      "lat": 18.04248,
+      "lng": -63.05483
     }
   },
   {
